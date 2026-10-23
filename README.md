@@ -12,4 +12,3 @@ venv\Scripts\Activate.ps1      # Windows PowerShell
 pip install -r requirements.txt
 python main.py
 ```
-ต้องมี Google Chrome ติดตั้งในเครื่อง (webdriver-manager จะโหลด ChromeDriver ให้อัตโนมัติ)
